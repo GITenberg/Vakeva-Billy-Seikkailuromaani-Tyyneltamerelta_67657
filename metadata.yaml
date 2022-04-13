@@ -1,0 +1,38 @@
+_repo: Vakeva-Billy-Seikkailuromaani-Tyyneltamerelta_67657
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kupiainen, Alpo
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '41954'
+    url: http://www.gutenberg.org/2009/agents/41954
+    wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: 'Translation of part 1 of: The Mucker.'
+gutenberg_issued: '2022-03-19'
+identifiers:
+  gutenberg: '67657'
+language: fi
+pgterms:marc905: 20220218020224burroughs
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Arvi A. Karisto Oy,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- GITenberg
+title: 'Väkevä Billy: Seikkailuromaani Tyyneltämereltä'
+url: http://www.gutenberg.org/ebooks/67657
