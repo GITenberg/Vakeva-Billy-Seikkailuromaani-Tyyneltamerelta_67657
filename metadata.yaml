@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '41954'
     url: http://www.gutenberg.org/2009/agents/41954
     wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burroughs, Edgar Rice
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
 description: 'Translation of part 1 of: The Mucker.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67657#Vakeva-Billy-Seikkailuromaani-Tyyneltamerelta
 gutenberg_issued: '2022-03-19'
 identifiers:
   gutenberg: '67657'
